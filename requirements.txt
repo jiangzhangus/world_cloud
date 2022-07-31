@@ -1,0 +1,9 @@
+numpy
+nltk
+wordcloud
+langdetect
+pillow
+openpyxl
+pandas
+scikit-learn
+matplotlib
